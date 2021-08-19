@@ -22,6 +22,7 @@ h2 {
 h3 {
 
     color: #11999E;
+    margin-bottom: 50px;
 }
 
 .first {
@@ -64,11 +65,15 @@ a {
     border-radius: 100%;
 }
 
+
+
+
+
 .team {
-    width: 20%;
-    height: 20%;
+    width: 40%;
+    height: 40%;
+    padding-top: 15%;
     
-    border-radius: 100%;
 }
 
 hr {
@@ -90,7 +95,7 @@ hr {
 
 .BUTTON_NPM {
     background: #66BFBF;
-    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-linear-gradient(top, lightblue, #1E62D0);
     background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
     background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
     background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
